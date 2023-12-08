@@ -1,4 +1,6 @@
 # Ecommerce-app
+Original Repository: https://github.com/lcygler/ecommerce-app
+
 Deploy: https://modern-fashion-store.vercel.app/
 
 
